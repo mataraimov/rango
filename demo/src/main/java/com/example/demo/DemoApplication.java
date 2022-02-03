@@ -14,7 +14,7 @@ public class DemoApplication {
 	}
 	@GetMapping
 	public String hell(){
-		return "hello world!";
+		return "hello Nuradil";
 	}
 
 }
